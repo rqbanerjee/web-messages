@@ -1,0 +1,31 @@
+diff --git messages/messages.properties messages/messages.properties
+index 8b9116e..99648c1 100644
+--- messages/messages.properties
++++ messages/messages.properties
+@@ -1,5 +1,5 @@
+ #en_US message properties
+-#Patch applied: no patch
++#Patch applied: patch2
+ 
+ usageGraph.insight.findTips=Find tips to reduce your use:
+ 
+@@ -7,4 +7,6 @@ heatingCoolingBar.summary=Last winter, you used <strong>{0}% more electricity on
+ 
+ tip.homePage.seeWhatOthersDo=See what steps others are taking to save energy in your area.
+ 
+-upcomingPrice.ibr.yourPrice=Your prices for the billing period starting {0, mm/DD/yyyy}
+\ No newline at end of file
++upcomingPrice.ibr.yourPrice=Your prices for the billing period starting {0, mm/DD/yyyy}
++
++peakDayReduction.NONE=I''m already using as little as I can on hot afternoons.
+\ No newline at end of file
+diff --git messages/messages_es_ES.properties messages/messages_es_ES.properties
+index b9aa345..eb94055 100644
+--- messages/messages_es_ES.properties
++++ messages/messages_es_ES.properties
+@@ -1,4 +1,4 @@
+ #es_ES message properties. Translations from translate.google.com.
+-#Patch applied: no patch
++#Patch applied: patch2
+ 
+ usageGraph.insight.findTips=Encuentre consejos para reducir su uso:
